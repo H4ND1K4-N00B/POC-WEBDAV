@@ -6,4 +6,4 @@ pkg install curl
 pip install termcolor
 clear
 figlet -f slant Suscses | lolcat
-echo "Selanjutnya Ketik sh dav.sh"
+echo "HMMM APA TENGOK GK PENTING ANJIR"
